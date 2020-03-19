@@ -1,6 +1,3 @@
 [submodule "themes/axiom"]
 	path = themes/axiom
 	url = https://github.com/jhauraw/axiom.git
-[submodule "public"]
-	path = public
-	url = git@github.com:p-program/p-program.github.io.git
