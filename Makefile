@@ -1,12 +1,13 @@
 now := $(shell date)
 
 auto_commit:
-	git add .	
-	git commit -am "$(now)"
+	git add .		
 	git pull
+	# sub module
+	hugo -D
+	cd public && make
+	git commit -am "$(now)"	
 	git push
-
-commit_all: auto_commit release
 
 release:
 	hugo -D
