@@ -9,3 +9,7 @@ auto_commit:
 
 update_theme:
 	git submodule update --remote --rebase
+	# git submodule update --remote themes/axiom
+
+run:
+	 hugo server -D
