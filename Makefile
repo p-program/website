@@ -5,6 +5,8 @@ auto_commit:
 	git commit -am "$(now)"
 	git pull
 	git push
+	hugo -D
+	cd public && make
 
 
 update_theme:

@@ -14,3 +14,9 @@ npm run prd
 ```
 
 To develop the `theme` `css` or `js` see the `README` for the theme itself. To develop the optional _custom_ `css` and/or `js` you will need to configure your own build process. Examples can be found in the theme README.
+
+
+git submodule add git@github.com:p-program/p-program.github.io.git public
+
+
+https://themes.gohugo.io/axiom/
