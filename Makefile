@@ -5,6 +5,10 @@ auto_commit:
 	git commit -am "$(now)"
 	git pull
 	git push
+
+commit_all: auto_commit release
+
+release:
 	hugo -D
 	cd public && make
 

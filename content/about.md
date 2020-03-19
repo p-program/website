@@ -1,27 +1,39 @@
 +++
 title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
-date = "2019-02-28"
+description = ""
+date = "2020-03-17"
 aliases = ["about-us","about-hugo","contact"]
-author = "Hugo Authors"
-feature = "page-default.webp"
-caption = "Lorem est tota propiore conpellat pectoribus de."
+author = "Zeusro"
+feature = "clock.jpg"
+caption = "《Alarm》"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
-Hugo makes use of a variety of open source projects including:
+Today is 2020-03-17,I would like to show you a new excellent programming:**p-oriented-programming**
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+In China,`P` means shit/bullshit,so we can say about that:
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+> **p-oriented-programming**=**bullshit-oriented-programming**
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+**p-oriented-programming** is some kind of thought,It will help you to make this world a better place！
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+What you need to do is  creating a pull request/issue to someone's open source project , with some funny jokes or sticker.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Or you can show your project whatever you like.
+
+If you watch [my github](https://github.com/pulls?q=is%3Apr+author%3Azeusro+archived%3Afalse+is%3Aclosed),you will get my point.
+
+And you will find that coding is something you can get happiness from it.
+
+Here are some examples.
+
+1. [好耶 是女装](https://github.com/komeiji-satori/Dress)
+1. [共享带宽自调整](https://github.com/zeusro/common-bandwidth-auto-switch)
+1. [hexo Chart](https://github.com/cloudnativeapp/charts/pull/33)
+1. [开发一个油猴插件魔改dnspod](https://www.zeusro.com/2019/07/05/mydnspod/)
+
+Why so serious？
+
+Let's make some fun in this hell!
+
+Learn more and contribute on [GitHub](https://github.com/p-program).

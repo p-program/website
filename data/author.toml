@@ -1,13 +1,13 @@
 [default]
-name = "Default Author"
+name = "p-program"
 uri = "https://example.com/"
 email = "info@example.com"
 twitter = "example"
-image = "default.webp"
+image = "p-program.jpg"
 
 ["Hugo Authors"]
 name = "p-program"
 uri = "https://example.com/"
 email = "info@example.com"
 twitter = "example"
-image = "default.webp"
+image = "p-program.jpg"
