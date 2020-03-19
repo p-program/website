@@ -5,7 +5,7 @@ date: 2020-03-19T23:50:20+08:00
 draft: true
 ---
 
-Hello,everyone,I am Zeusro who was born and live in China. This is my fist post in Hacker News.
+Hello,everyone,I am Zeusro who was born and live in China.
 
 I have a question for you guys:
 > What we talk about when we talk about Superheroes ?
