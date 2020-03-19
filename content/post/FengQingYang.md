@@ -91,7 +91,7 @@ protected function getCacheAdvertList($keyList)
 
 > 你倒也不可妄自菲薄，独孤大 侠是绝顶聪明之人，学他的剑法，要旨是在一个 ‘悟’字，决不在死记硬记。等到通晓了这九剑的 剑意，则无所施而不可，便是将全部变化尽数忘 记，也不相干，临敌之际，更是忘记得越干净彻 底，越不受原来剑法的拘束。
  
-> Feel free even you forget the API. Thinking is the most important thing  while Learning.
+> Feel free even you forget the API. Thinking is the most important thing  while learning.
 
 As a matter of fact, 风清扬 taught 令狐冲 (LingHuChong) how to became a truth swordsman in the chapter 10th.
 
