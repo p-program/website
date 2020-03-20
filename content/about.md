@@ -9,13 +9,13 @@ caption = "《Alarm》"
 +++
 
 
-Today is 2020-03-17,I would like to show you a new excellent programming:**p-oriented-programming**
+Today is 2020-03-17,I would like to show you a new excellent programming:**P-Oriented-Programming**
 
 In China,`P` means shit/bullshit,so we can say about that:
 
-> **p-oriented-programming**=**bullshit-oriented-programming**
+> **P-Oriented-Programming**=**bullshit-oriented-programming**
 
-**p-oriented-programming** is some kind of thought,It will help you to make this world a better place！
+**P-Oriented-Programming** is some kind of thought,It will help you to make this world a better place！
 
 What you need to do is  creating a pull request/issue to someone's open source project , with some funny jokes or sticker.
 
