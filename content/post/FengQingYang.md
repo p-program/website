@@ -101,4 +101,4 @@ But as for me, he is my Gandalf who teach me how to write the code.
 
 He is the different kind of super hero. He belongs to China, without no doubt.
 
-Yes, China does have their own superheroes. you know nothing because you do not learn our Chinese culture.
+Yes, China does have our own superheroes.You know nothing because you do not learn our culture.
