@@ -127,6 +127,9 @@ More options, more KPI, more salary jobs!
 //        return "d";
     }
 ```
+
+## JVM is great！
+
 ![](/image/post/HowToDoInJava/jvm.png)
 
 ## Use ==
