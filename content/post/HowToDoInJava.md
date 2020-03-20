@@ -247,6 +247,11 @@ public class Vector<E> {
         return null;
     }
 ```
+## Use Java 8 till the world ends
+
+2032：I still use Java 8.
+
+![](image/post/HowToDoInJava/java-release.png)
 
 ## More code lines,more money
 
@@ -400,3 +405,4 @@ s.add(4);
 1. https://blog.csdn.net/u011928958/article/details/74999256
 1. https://www.jianshu.com/p/bbf8c28101e9
 1. https://zhuanlan.zhihu.com/p/29010605
+1. https://en.wikipedia.org/wiki/Java_version_history
