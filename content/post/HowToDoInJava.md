@@ -196,8 +196,8 @@ System.out.println(words); //[Ljava.lang.String;@45ee12a7
 ## Save file twice for guarantee
 
 ```java
-Savefile(fileName);
-Savefile(fileName);
+saveFile(fileName);
+saveFile(fileName);
 ```
 
 ## Sleep for further optimization
