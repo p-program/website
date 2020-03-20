@@ -8,6 +8,13 @@ The point is to break the rule everyday.
 
 ![](/image/post/HowToDoInJava/java.jpg)
 
+
+## Use Java 8 till the world ends
+
+2032：I still use Java 8.
+
+![](/image/post/HowToDoInJava/java-release.png)
+
 ## Write once,run nowwhere
 
 ![](/image/post/HowToDoInJava/write-once.jpg)
@@ -248,11 +255,24 @@ public class Vector<E> {
     }
 ```
 
-## Use Java 8 till the world ends
+## Love my wife like crazy
 
-2032：I still use Java 8.
+```java
+package com.zeusro;
+import java.util.Date;
 
-![](/image/post/HowToDoInJava/java-release.png)
+public interface Wife {
+
+    public void want(Float money);
+
+    public void want(Float money,Object love);
+
+    public void want(Object love,Float money);
+
+    public void want(Object love, Float money, Date time);
+
+}
+```
 
 ## More code lines,more money
 
