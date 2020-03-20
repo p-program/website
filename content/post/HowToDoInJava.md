@@ -68,6 +68,11 @@ The point is to break the rule everyday.
 
 ```
 
+## JVM is great！
+
+![](/image/post/HowToDoInJava/jvm.png)
+
+
 ## JVM optimization
 
 ![](/image/post/HowToDoInJava/jvm-memory.jpg)
@@ -128,10 +133,6 @@ More options, more KPI, more salary jobs!
     }
 ```
 
-## JVM is great！
-
-![](/image/post/HowToDoInJava/jvm.png)
-
 ## Use ==
 
 ```java
@@ -151,7 +152,6 @@ More options, more KPI, more salary jobs!
 ```
 
 ## Use / as much as you can
-
 
 ```java
 import java.util.Scanner;
@@ -207,7 +207,7 @@ saveFile(fileName);
 Thread.sleep(30000)；
 ```
 
-## NullPointerException is your best friend
+## NullPointerException is your best friend!
 
 ```java
 {
@@ -247,11 +247,12 @@ public class Vector<E> {
         return null;
     }
 ```
+
 ## Use Java 8 till the world ends
 
 2032：I still use Java 8.
 
-![](image/post/HowToDoInJava/java-release.png)
+![](/image/post/HowToDoInJava/java-release.png)
 
 ## More code lines,more money
 
@@ -263,7 +264,7 @@ Go senior backend engineer : NO!
 
 C# senior backend engineer : NO!
 
-Kotlin senior backend engineer : NO!
+Kotlin senior engineer : NO!
 
 Java senior backend engineer : YES!I am still busy on generating get and set.
 
@@ -396,7 +397,6 @@ s.add(2);
 s.add(3);
 s.add(4);
 ```
-
 
 ## Thanks
 
