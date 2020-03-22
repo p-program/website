@@ -1,7 +1,6 @@
 # p-program
 
-hugo new content/post/my-first-post.md
-
+    hugo new content/post/
 
 ## Local Dev
 
