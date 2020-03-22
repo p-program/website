@@ -2,6 +2,7 @@
 title: "The Seed Of Robot —— Intelligent API Gateway"
 date: 2020-03-21T20:56:37+08:00
 draft: true
+feature: "post/The-Seed-Of-Robot/one-piece.jpg"
 ---
 
 ## 冯·诺依曼结构的缺陷
@@ -97,7 +98,13 @@ Influence:
 -->
 调用计算资源完成计算
 
-`-->` 表示数据的流动，是一种世界通讯的协议
+`-->` 表示数据的流动，是一种世界通讯的协议。
+
+微服务查找是一个拓展的概念，查找的结果基于搜索因子呈现，基于质量排序。比如，海贼王临死前留下了 `One Piece`，只留给找到它的人。各路豪杰纷纷响应，世界由此进入大航海时代。
+
+调用微服务不一定只调用一个，我们可以并发地调用多个微服务，`One Piece` 只留给最快找到它的人。
+
+![](/image/post/The-Seed-Of-Robot/one-piece.jpg)
 
 ## TODO
 
