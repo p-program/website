@@ -2,12 +2,10 @@
 title: "How To Do In Java"
 date: 2020-03-20T13:53:29+08:00
 draft: true
+feature: "post/HowToDoInJava/java.jpg"
 ---
 
 The point is to break the rule everyday.
-
-![](/image/post/HowToDoInJava/java.jpg)
-
 
 ## Use Java 8 till the world ends
 
