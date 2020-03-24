@@ -27,6 +27,14 @@ git submodule update --remote
 
 [axiom](https://themes.gohugo.io/axiom/)
 
+```bash
+cd themes/axiom
+git pull origin master
+npm install
+npm run prd
+```
+
+
 ### public
 
 post release
