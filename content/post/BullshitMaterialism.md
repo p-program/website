@@ -2,6 +2,7 @@
 title: "唯物主义最扯淡的地方"
 date: 2020-03-27T09:26:58+08:00
 draft: true
+feature: "post/BullshitMaterialism/god.jpg"
 ---
 
 > 人从哪里来，我是谁，我要去哪？
