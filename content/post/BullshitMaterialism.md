@@ -50,6 +50,8 @@ OK，你觉得这样的推论很扯淡。那我们就来讲讲基本问题。
 >
 > 岂是拈花难解脱，可怜飞絮太飘零。
 
+> 人生一场虚空大梦,韶华白首,不过转瞬。惟有天道恒在,往复循环,不曾更改。
+
 ## 参考链接
 1. https://zh.wikipedia.org/wiki/%E5%94%AF%E5%BF%83%E4%B8%BB%E7%BE%A9
 1. https://zh.wikipedia.org/wiki/%E5%94%AF%E7%89%A9%E8%BE%AF%E8%AD%89%E6%B3%95
