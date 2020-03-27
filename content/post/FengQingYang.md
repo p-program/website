@@ -1,6 +1,6 @@
 ---
 author: "Zeusro"
-title: "Superhero in China🇨🇳"
+title: "Superhero in China 🇨🇳"
 date: 2020-03-19T23:50:20+08:00
 draft: true
 feature: "post/FengQingYang/FengQingYang.jpg"
@@ -96,10 +96,10 @@ protected function getCacheAdvertList($keyList)
  
 > Feel free even you forget the API. Thinking is the most important thing  while learning.
 
-As a matter of fact, 风清扬 taught 令狐冲 (LingHuChong) how to became a truth swordsman in the book.
+As a matter of fact, 风清扬 taught 令狐冲 (LingHuChong) how to become a truth swordsman in the book.
 
-But as for me, he is my Gandalf who teach me how to write the code.
+He is the different kind of superhero. He is my Gandalf who teaches me coding.
 
-He is the different kind of super hero. He belongs to China, without no doubt.
+He belongs to China, without no doubt.
 
-Yes, China does have our own superheroes.You know nothing because you do not learn our culture.
+Yes, China does have our own superheroes.You know nothing because you don't learn our culture.
