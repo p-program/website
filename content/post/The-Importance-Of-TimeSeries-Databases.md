@@ -2,6 +2,7 @@
 title: "The Importance Of Time Series Databases"
 date: 2020-04-01T10:23:18+08:00
 draft: true
+feature: "post/The-Importance-Of-TimeSeries-Databases/MAR-2020-DB-Categories-alt-2048x1024.png"
 ---
 
 首先，我们先理清一个概念：
