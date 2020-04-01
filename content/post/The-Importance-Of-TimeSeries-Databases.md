@@ -40,3 +40,5 @@ f\mathop{{}}\nolimits^{{-1}} \left( f \left( x \left)  \left) =x\right. \right. 
 > y=x
 
 的图形展示吧，这个初中生都懂 ~
+
+结论：**时序数据库才是未来。**
