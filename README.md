@@ -1,5 +1,6 @@
 # p-program
 
+    git clone git@github.com:p-program/readme.git --remote-submodules
     hugo new content/post/
 
 ## Local Dev
@@ -33,7 +34,6 @@ git pull origin master
 npm install
 npm run prd
 ```
-
 
 ### public
 
