@@ -2,7 +2,7 @@
 title: "政治老师哪有这么可爱"
 date: 2020-03-27T09:26:58+08:00
 draft: true
-feature: "post/BullshitMaterialism/god.jpg"
+feature: "image/post/BullshitMaterialism/god.jpg"
 ---
 
 > 人从哪里来，我是谁，我要去哪？

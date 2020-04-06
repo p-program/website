@@ -19,8 +19,6 @@ npm run prd
 
 ### public
 
-post release
-
 ```bash
 git submodule add git@github.com:p-program/p-program.github.io.git public
 ```

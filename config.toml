@@ -26,7 +26,8 @@ copyrightYear = 2000
 [params.services]
 analyticsId = "UA-DEV"
 adwordsId = "AW-DEV"
-adsenseId = "CA-PUB-DEV"
+# adsense 广告
+adsenseId = ""
 adsenseAdSlotId = "ID-DEV"
 adwordsConversionId = "ID-DEV"
 adwordsConversionValue = 0
@@ -62,7 +63,7 @@ summary = "w_auto,dpr_auto,c_scale,f_auto,q_auto/"
 [params.img]
 width = "2048"
 height = "1024"
-default = "clock.jpg"
+default = "/image/clock.jpg"
 
 [params.font]
 type = ""

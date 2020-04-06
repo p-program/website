@@ -3,18 +3,18 @@ name = "p-program"
 uri = "https://github.com/p-program"
 email = "info@example.com"
 twitter = "example"
-image = "p-program.jpg"
+image = "image/author/p-program.jpg"
 
 ["Hugo Authors"]
 name = "p-program"
 uri = "https://github.com/p-program"
 email = "info@example.com"
 twitter = "example"
-image = "p-program.jpg"
+image = "image/author/p-program.jpg"
 
 [Zeusro]
 name = "Zeusro"
 uri = "https://github.com/zeusro"
 email = "unccav@gmail.com"
 twitter = "M2_49"
-image = "Zeusro.jpeg"
+image = "image/Zeusro.jpeg"

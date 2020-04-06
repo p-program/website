@@ -4,7 +4,7 @@ description = ""
 date = "2020-03-17"
 aliases = ["about-us","about-hugo","contact"]
 author = "Zeusro"
-feature = "clock.jpg"
+feature = "/image/clock.jpg"
 caption = "《Alarm》"
 +++
 
