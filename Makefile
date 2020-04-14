@@ -4,7 +4,7 @@ auto_commit: pull
 	git add .	
 	# sub module
 	hugo -D
-	cd public && make
+	cd public && make auto_commit
 	git commit -am "$(now)"	
 	git push
 
