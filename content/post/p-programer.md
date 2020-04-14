@@ -2,7 +2,7 @@
 title: "皮之三重境界"
 date: 2020-03-24T12:03:42+08:00
 draft: true
-feature: "image/post/p-programer/p-god.jpeg"
+feature: "post/p-programer/p-god.jpeg"
 ---
 
 古人曾经没有这么云过：

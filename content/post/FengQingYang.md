@@ -3,7 +3,7 @@ author: "Zeusro"
 title: "Superhero in China 🇨🇳"
 date: 2020-03-19T23:50:20+08:00
 draft: true
-feature: "image/post/FengQingYang/FengQingYang.jpg"
+feature: "post/FengQingYang/FengQingYang.jpg"
 ---
 
 Hello,everyone,I am Zeusro who was born and live in China.

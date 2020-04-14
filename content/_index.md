@@ -1,6 +1,6 @@
 +++
 author = "Zeusro"
-feature = "/image/clock.jpg"
+feature = "clock.jpg"
 caption = "《Alarm》"
 +++
 

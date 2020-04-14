@@ -2,7 +2,7 @@
 title: "The Seed Of Robot —— Intelligent API Gateway"
 date: 2020-03-21T20:56:37+08:00
 draft: true
-feature: "image/post/The-Seed-Of-Robot/one-piece.jpg"
+feature: "post/The-Seed-Of-Robot/one-piece.jpg"
 ---
 
 ## 冯·诺依曼结构的缺陷

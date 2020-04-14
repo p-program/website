@@ -63,7 +63,7 @@ summary = "w_auto,dpr_auto,c_scale,f_auto,q_auto/"
 [params.img]
 width = "2048"
 height = "1024"
-default = "/image/clock.jpg"
+default = "clock.jpg"
 
 [params.font]
 type = ""
