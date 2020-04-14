@@ -13,13 +13,14 @@ release:
 	# sub module
 	cd public && make
 
-pull:
+pull:	
 	git pull
 	# sub module
 	cd public && make pull
 
 update_theme:
-	git submodule update --remote --rebase
+	cd themes/axiom && git pull origin master
+	# git submodule update --remote --rebase
 	# git submodule update --remote themes/axiom
 
 run:
