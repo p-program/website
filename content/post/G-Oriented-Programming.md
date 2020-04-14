@@ -20,7 +20,9 @@ feature: "image/post/G-Oriented-Programming/g.jpg"
 
 ![image](/image/post/G-Oriented-Programming/g-too-many.png)
 
-这些其实都只是个人选择。无关乎对错。但，把锅留给别人，万一后继无人呢？
+这些都只是个人选择，无关乎对错。
+
+更蛋疼的在于，公司倒闭，项目无人可接手。
 
 ## 把锅留给世界
 
