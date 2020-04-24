@@ -2,13 +2,13 @@
 
     git clone git@github.com:p-program/readme.git
     git submodule update --init  
-    hugo new content/post/
+    hugo new content/post/Distributed-Wife-System.md
 
 ## architecture
 
 ### themes/axiom
 
-[axiom](https://themes.gohugo.io/axiom/)
+[axiom](https://github.com/marketempower/axiom)
 
 ```bash
 cd themes/axiom
