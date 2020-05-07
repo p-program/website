@@ -25,6 +25,8 @@ feature: "image/post/Distributed-Wives-System/school-days.png"
 
 这种母系社会，应该叫分布式老公系统才对。分布式老公系统，实现了高可用性和分区容错性。一致性无法保障，所以生下来的娃不知道谁是爹。因此也确立了母亲在族群中的统领地位。
 
+![image](/image/post/Distributed-Wives-System/zha.jpg)
+
 老婆=1，所以不能叫分布式老婆系统。
 
 ## 父有一个，三妻四妾
@@ -47,7 +49,7 @@ feature: "image/post/Distributed-Wives-System/school-days.png"
 
 策略是**欺骗与重建信任**。
 
-### 弱水三千，只取一瓢：
+### 弱水三千，只取一瓢
 
 > 亲爱的,我从你身上看到了整个世界。跟你在一起之后，我的生命变得完整。嫁给我吧，我会给你幸福的！
 
@@ -55,25 +57,30 @@ feature: "image/post/Distributed-Wives-System/school-days.png"
 
 > 老婆，她们只是我的姐妹，我只是玩玩而已。大家都是人，有什么生理需求都很正常。
 
+![image](/image/post/Distributed-Wives-System/lv1.jpg)
+
 ### 老婆A 的态度
 
-第二个步骤过后，会有两条分支线。这取决于老婆A的态度。
+经历过第二阶段以后，会有两条分支线。这取决于老婆A的态度。
 
 ### 自戴绿帽
 
 自戴绿帽的合法方式是与他离婚，让他娶小三。但是事实上又在一起。或者做表面夫妻，假意原谅老公，让他继续在外面浪荡。
 
+![image](/image/post/Distributed-Wives-System/lv-wife.jpg)
+
 离婚后又事实上在一起，叫做**实现了最终一致性**。
 
-在中国有不少人实现了这个方式。但名字我还是不说了，免得被抄家就不好了，哈哈哈。
+在中国有不少人实现了这个方式。名字我就不说了，免得被抄家，这样就不好了，哈哈哈。
 
 ### 斩其祸根
 
-在《School Days》，诚哥上了天台，故事的结局，大家也都知道了。
+在《School Days》里面，诚哥上了天台。故事的结局，大家也都知道了。
 
 ![image](/image/post/Distributed-Wives-System/school-days.png)
 
-来说一首诗祭奠一下诚哥吧：
+附一首诗祭奠一下诚哥吧：
+
 ```
 诚哥笑我胆子小，我笑诚哥死得早。 
 你笑诚哥死得早，诚哥笑你日得少。 
@@ -81,15 +88,13 @@ feature: "image/post/Distributed-Wives-System/school-days.png"
 你笑诚哥日不了，诚哥笑你胆子小。
 ```
 
-对于老婆A 来说，防止戴绿帽的最佳策略是**不断提高自身价值，并查他手机**。
+对于 老婆A 来说，防止被戴绿帽的更优策略是**不断提高自身价值，并查他（所有的）手机**。
 
 ## 结论
 
 只要你一心沉迷二次元，完美的分布式老婆系统还是可以实现的！
 
 ![image](/image/post/Distributed-Wives-System/wives.jpg)
-
-PS: 现实世界里，我的女朋友已经不少了，请各位女施主自重 ~
 
 ## 参考链接
 
