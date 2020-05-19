@@ -2,7 +2,8 @@
 
     git clone git@github.com:p-program/readme.git
     git submodule update --init  
-    hugo new content/post/Distributed-Wife-System.md
+    post=Endless-August
+    hugo new content/post/$post.md
 
 ## architecture
 
