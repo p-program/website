@@ -9,7 +9,7 @@ caption = "《Alarm》"
 +++
 
 
-Today is 2020-03-17,I would like to show you a new excellent programming:**P-Oriented-Programming**
+Today is 2020-03-17,[I](https://github.com/zeusro) would like to show you a new excellent programming:**P-Oriented-Programming**
 
 In China,`P` means shit/bullshit,so we can say about that:
 
