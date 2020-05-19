@@ -1,4 +1,5 @@
 ---
+author: "Zeusro"
 title: "Distributed Wives System"
 date: 2020-04-24T17:13:31+08:00
 draft: true
