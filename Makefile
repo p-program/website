@@ -6,7 +6,7 @@ auto_commit: pull
 	git commit -am "$(now)"	
 	git push
 	# sub module
-	cp -r public ../p-program.github.io
+	cp -r public/ ../p-program.github.io/
 	cd ../p-program.github.io && make
 
 clean:

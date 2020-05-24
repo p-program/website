@@ -139,7 +139,7 @@ func RichGrandma(limit int64) (timings []int64) {
 ![img](/image/post/Rich-Grandma-Looks-At-Me/2.jpg)
 这是一个广义三维世界（我+妹子+富婆）模型,
 这个模型存在完美P均衡。
-
+每隔10分钟，我就能与妹子以及富婆完美相遇。
 
 ## 吐槽
 
