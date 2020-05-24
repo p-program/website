@@ -8,6 +8,12 @@ auto_commit: pull
 	git commit -am "$(now)"	
 	git push
 
+clean:
+	git rm -r --cached .
+	git add .
+	git commit -am "clean"
+	git push
+
 release:
 	hugo -D
 	# sub module
