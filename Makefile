@@ -1,12 +1,13 @@
 now := $(shell date)
 
 auto_commit: pull
-	git add .	
-	# sub module
+	git add .
 	hugo -D
-	cd public && make auto_commit
 	git commit -am "$(now)"	
 	git push
+	# sub module
+	mv public ../p-program.github.io
+	cd ../p-program.github.io && make
 
 clean:
 	git rm -r --cached .
@@ -16,13 +17,9 @@ clean:
 
 release:
 	hugo -D
-	# sub module
-	cd public && make
 
 pull:	
 	git pull
-	# sub module
-	cd public && make pull
 
 update_theme:
 	cd themes/axiom && git pull origin master
