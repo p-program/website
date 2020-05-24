@@ -90,8 +90,6 @@ feature: "image/post/Distributed-Wives-System/school-days.png"
 
 ![image](/image/post/Distributed-Wives-System/wives.jpg)
 
-PS: 现实世界里，我的女朋友已经不少了，请各位女施主自重 ~
-
 ## 参考链接
 
 1. [上帝造人](https://baike.baidu.com/item/%E4%B8%8A%E5%B8%9D%E9%80%A0%E4%BA%BA)
