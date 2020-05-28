@@ -8,7 +8,7 @@
 
 ## new post
 
-    post=Endless-August
+    post=Initial-D
     hugo new content/post/$post.md
 
 ## architecture
