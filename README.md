@@ -8,7 +8,7 @@
 
 ## new post
 
-    post=Initial-D
+    post=Mobile-Suit-Gundam-SEED
     hugo new content/post/$post.md
 
 ## architecture
