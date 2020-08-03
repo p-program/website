@@ -1,11 +1,15 @@
 ---
 author: "Zeusro"
-title: "RUNNING CONTAINER GUNDAM SEED"
+title: "机动容器 GUNDAM SEED"
 date: 2020-08-03T20:32:49+08:00
 draft: true
 feature: "image/post/Mobile-Suit-Gundam-SEED/GAT-X_Operating_System.png"
 subtitle: Mobile Suit Gundam SEED
 ---
+
+## docker company
+
+![image](/image/post/Mobile-Suit-Gundam-SEED/docker-company.jpg)
 
 ## docker image
 
