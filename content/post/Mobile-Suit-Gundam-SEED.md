@@ -1,19 +1,46 @@
 ---
 author: "Zeusro"
 title: "机动容器 GUNDAM SEED"
+subtitle: 图解容器各个概念
 date: 2020-08-03T20:32:49+08:00
 draft: true
 feature: "image/post/Mobile-Suit-Gundam-SEED/GAT-X_Operating_System.png"
 subtitle: Mobile Suit Gundam SEED
 ---
 
+有个死人曾经这么说过：“**If you can't explain it simply, you don't understand it well enough.**”
+
 ## docker company
 
 ![image](/image/post/Mobile-Suit-Gundam-SEED/docker-company.jpg)
 
+docker company 是大奸商万代公司。他们卖的模型很贵，而且最近[不卖给中国一些实体名单企业](https://segmentfault.com/a/1190000023645593)了。
+
+## [OCI](https://opencontainers.org/)
+
+![image](/image/post/Mobile-Suit-Gundam-SEED/TJTA.png)
+
+如果说 docker company 是万恶的大奸商，OCI则是一个由 docker company 的同业公司组建的一个日本玩具协会。这个协会存在的目的，主要是为了共同制定行业标准。
+
+## OCIv1
+
+![image](/image/post/Mobile-Suit-Gundam-SEED/OCIv1.jpg)
+
+自由高达1.0的黑白图纸。
+
+## OCIv2
+
+![image](/image/post/Mobile-Suit-Gundam-SEED/OCIv2.jpg)
+
+自由高达2.0的彩色图纸。它是彩色的，主要是为了解决 OCIv1 的历史遗留问题。
+
+关于OCIv1的问题，我在《[Dragonfly Nydus——下一代容器格式的一种实现](http://www.zeusro.com/2020/07/30/oci-v2/)》里面有说。
+
 ## docker image
 
 ![image](/image/post/Mobile-Suit-Gundam-SEED/docker-image.jpg)
+
+docker image 是一堆不会动的数据。
 
 ## docker container
 
@@ -21,22 +48,16 @@ subtitle: Mobile Suit Gundam SEED
 
 ![image](/image/post/Mobile-Suit-Gundam-SEED/running-container.gif)
 
+当docker image 动起来之后，就是一只会动的高达模型。
+
 ### stopped container
 
 ![image](/image/post/Mobile-Suit-Gundam-SEED/stop-container.jpg)
 
-## OCIv1
-
-自由高达1.0的图纸
-
-![image](/image/post/Mobile-Suit-Gundam-SEED/OCIv1.jpg)
-
-## OCIv2
-
-自由高达2.0的图纸
-
-![image](/image/post/Mobile-Suit-Gundam-SEED/OCIv2.jpg)
+自由高达没电了，所以停住了。
 
 ## [PouchContainer](https://github.com/alibaba/pouch)
 
 ![image](/image/post/Mobile-Suit-Gundam-SEED/liuxing.jpg)
+
+自由高达流星装。
