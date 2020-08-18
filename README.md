@@ -8,7 +8,7 @@
 
 ## new post
 
-    post=Mobile-Suit-Gundam-SEED
+    post=Distributed-Husband-System
     hugo new content/post/$post.md
 
 ## architecture
