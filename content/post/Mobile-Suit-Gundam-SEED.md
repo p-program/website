@@ -14,7 +14,7 @@ subtitle: Mobile Suit Gundam SEED
 
 ![image](/image/post/Mobile-Suit-Gundam-SEED/docker-company.jpg)
 
-docker company 是大奸商万代公司。他们卖的模型很贵，而且最近[不卖给中国一些实体名单企业](https://segmentfault.com/a/1190000023645593)了。
+docker company 是大奸商万代公司。他们卖的模型很贵，而且最近 [不卖给中国一些实体名单企业](https://segmentfault.com/a/1190000023645593)。
 
 ## [OCI](https://opencontainers.org/)
 
@@ -22,13 +22,13 @@ docker company 是大奸商万代公司。他们卖的模型很贵，而且最�
 
 如果说 docker company 是万恶的大奸商，OCI则是一个由 docker company 的同业公司组建的一个日本玩具协会。这个协会存在的目的，主要是为了共同制定行业标准。
 
-## OCIv1
+## [OCIv1](https://github.com/opencontainers/image-spec)
 
 ![image](/image/post/Mobile-Suit-Gundam-SEED/OCIv1.jpg)
 
 自由高达1.0的黑白图纸。
 
-## OCIv2
+## [OCIv2](https://hackmd.io/@cyphar/ociv2-brainstorm)
 
 ![image](/image/post/Mobile-Suit-Gundam-SEED/OCIv2.jpg)
 
@@ -43,6 +43,8 @@ docker company 是大奸商万代公司。他们卖的模型很贵，而且最�
 docker image 是一堆不会动的数据。
 
 ## docker container
+
+docker 容器其实是一个数据+状态机。
 
 ### running container
 
@@ -61,3 +63,15 @@ docker image 是一堆不会动的数据。
 ![image](/image/post/Mobile-Suit-Gundam-SEED/liuxing.jpg)
 
 自由高达流星装。
+
+## Kubernetes
+
+![image](/image/post/Mobile-Suit-Gundam-SEED/ANGEL.jpg)
+
+Kubernetes 是一台负责管理调度容器（高达）的航空母舰——大天使号。
+
+## [OAM](https://github.com/oam-dev/spec)
+
+![image](/image/post/Mobile-Suit-Gundam-SEED/OAM.png)
+
+[OAM](https://github.com/oam-dev/spec) (~~Open Autorobot Model~~) 是自由高达的驾驶舱。
