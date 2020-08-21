@@ -74,4 +74,4 @@ Kubernetes 是一台负责管理调度容器（高达）的航空母舰——大
 
 ![image](/image/post/Mobile-Suit-Gundam-SEED/OAM.png)
 
-[OAM](https://github.com/oam-dev/spec) (~~Open Autorobot Model~~) 是自由高达的驾驶舱。
+[OAM](https://github.com/oam-dev/spec) ( ~~Open Autorobot Model~~ ) 是自由高达的驾驶舱。
