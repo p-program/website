@@ -8,7 +8,7 @@
 
 ## new post
 
-    post=Distributed-Husband-System
+    post=Guangzhou-Metro
     hugo new content/post/$post.md
 
 ## architecture
