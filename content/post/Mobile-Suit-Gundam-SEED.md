@@ -5,7 +5,6 @@ subtitle: Mobile Suit Gundam SEED
 date: 2020-08-03T20:32:49+08:00
 draft: true
 feature: "image/post/Mobile-Suit-Gundam-SEED/GAT-X_Operating_System.png"
-
 ---
 
 有个死人曾经这么说过：“**If you can't explain it simply, you don't understand it well enough.**”
