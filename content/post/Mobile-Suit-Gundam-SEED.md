@@ -1,11 +1,11 @@
 ---
 author: "Zeusro"
 title: "机动容器 GUNDAM SEED"
-subtitle: 图解容器各个概念
+subtitle: Mobile Suit Gundam SEED
 date: 2020-08-03T20:32:49+08:00
 draft: true
 feature: "image/post/Mobile-Suit-Gundam-SEED/GAT-X_Operating_System.png"
-subtitle: Mobile Suit Gundam SEED
+
 ---
 
 有个死人曾经这么说过：“**If you can't explain it simply, you don't understand it well enough.**”

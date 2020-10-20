@@ -8,7 +8,7 @@
 
 ## new post
 
-    post=Guangzhou-Metro
+    post=One-Open-Operating-System
     hugo new content/post/$post.md
 
 ## architecture
