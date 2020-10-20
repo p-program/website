@@ -30,7 +30,7 @@ Input:
 
 Process:
 
-程序的处理逻辑。
+程序的处理逻辑
 
 Output:
 
@@ -42,15 +42,13 @@ Influence:
 
 ## 现行框架下的解
 
-我们就只挑`Process`来讲吧。按照[世界的定义](https://github.com/p-program/The-Seed/blob/master/world.md)，如果世界是不可解的，那么我们把分解为一个可解的世界就行。
+我们就只挑 `Process` 来讲吧。按照[世界的定义](https://github.com/p-program/The-Seed/blob/master/world.md)，如果世界是不可解的，那么我们把分解为一个可解的世界就行。
 
 制造泛用性机器人是我们最终的目标，但我们可以先从解决特定可解问题入手。
 
 比如，我要造一个文档机器人，基于我的文档仓库问答。这个文档是这么定义的:
 
-文件名是`kubernetes.md`
-
-内容是
+文件名是`kubernetes.md`,内容是
 
 ```markdown
 # 六 集群故障管理
@@ -65,27 +63,26 @@ Influence:
 
 在这个问题里面，"kubernetes.md" 就是"世界"。这个世界解决了故障处理的可解子问题。
 
-那么当我向机器人提问`ImageGCFailed`的时候，机器人认识到了这是 "kubernetes.md" 的问题，略微检索（elasticsearch），便能变成答案。
+那么当我向机器人提问 `ImageGCFailed` 的时候，机器人认识到了这是 "kubernetes.md" 的问题，略微检索（elasticsearch），便能变成答案。
 
 “ML科学家”就不服了，他说你怎么知道机器人知道答案呢？
 
 其实答案也非常的简单。“继续分割这个世界，直至不能再分割”。问题不能解决，那就把它再分解，再特殊化一点。
 
-举个例子。我们用浏览器访问[阿里云的容器服务Kubernetes版](https://help.aliyun.com/product/85222.html)
-
+举个例子。我们用浏览器访问 [阿里云的容器服务Kubernetes版](https://help.aliyun.com/product/85222.html)，
 实际上我们已经进入了 `Kubernetes` 这一个世界，我们所问的问题，只会跟 `Kubernetes` 这个产品相关联。
 
 所以，按照的现行技术框架下，这个问答机器人是这样的：
 
 文档消费者：
 
-文本输入 --> 机器人微服务 --> 检索已有数据（elasticsearch）
+文本输入 --> 机器人微服务 --> 检索已有数据（elasticsearch）--> 导出检索结果 --> 页面埋点，跟踪用户反馈以改进结果排序。
 
 文档生产者：
 
-`git clone`文档仓库 --> 程序结构化文档，将死的数据转换为可被理解并检索的数据，比如导入 elasticsearch。
+`git clone` 文档仓库 --> 程序结构化文档，将死的数据转换为可被理解并检索的数据，比如导入 elasticsearch。
 
-我们可以把所有阿里云产品的文档都丢到这个 elasticsearch 里面，一个产品一个 index。也可以分开做。
+我们可以把所有阿里云产品的文档都丢到这个 elasticsearch 里面，一个产品一个 index，也可以分开做。
 
 这个结果看起来很不“智能”，并且很简陋。但关键在于各个组件之间可以替换，而且最关键的文档部分可以扩展（多个消息源采集器，导入elasticsearch）。面向终端的目前只是一个钉钉机器人，但这个机器人对应的后端微服务是可以替换的。
 
@@ -107,7 +104,7 @@ Influence:
 
 微服务查找是一个拓展的概念，查找的结果基于搜索因子呈现，基于质量排序。比如，海贼王临死前留下了 `One Piece`，只留给找到它的人。各路豪杰纷纷响应，世界由此进入大航海时代。
 
-调用微服务不一定只调用一个，我们可以并发地调用多个微服务，`One Piece` 只留给最快找到它的人。
+调用微服务不一定只调用一个，我们可以并发地调用多个微服务，`One Piece` 只留给最快找到它的人。现在的高德打车就是这么做的，我们可以发起多个平台的打车，单子只留给最快响应并接单的人。
 
 ![](/image/post/The-Seed-Of-Robot/one-piece.jpg)
 
@@ -117,7 +114,7 @@ Influence:
 1. 新的世界级通讯协议
 1. VR技术
 
-参考链接
+## 参考链接
 
 1. http://www.yinwang.org/blog-cn/2018/04/13/computer-science
 1. https://baike.baidu.com/item/%E5%86%AF%C2%B7%E8%AF%BA%E4%BE%9D%E6%9B%BC%E7%BB%93%E6%9E%84
