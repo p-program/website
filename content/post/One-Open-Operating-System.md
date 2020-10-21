@@ -56,9 +56,9 @@ The "云影" system is an example. By 5G,everything is possible.
 
 I think Kubernetes is just a **middle distributed system**.There are so many ugly design and unsolved problems in Kubernetes.Such like volume(it is actually a distributed storage problem),network diagnosis,StatefulSet,CronJob and so on.
 
-Just like [Lei Zhang](https://github.com/resouer) said,Kubernetes is just a database.What the most important is paradigms,I call them **cloud native application paradigms**.
+Just like [Lei Zhang](https://github.com/resouer) said,Kubernetes is just a database.The most important things is paradigm,I call it **cloud native application paradigm**.
 
-Them include
+It includes
 1. Observability
 1. Self-healing
 1. Fallibility
@@ -70,17 +70,16 @@ Kubernetes's effect is to **build up a cloud native application standard**.
 
 ![image](/image/post/One-Open-Operating-System/5-IAAS.png)
 
-First of all,we need to declare one thing: **IaaS is a super distributed system** which includes so many products.
+First of all,we need to declare : **IaaS is a super distributed system** which includes so many products.
 
 I think in the near future,IaaS will become a super **Cloud Native Application Store**.
 
 In developer's view,we may need database,redis,distributed message queue and so on.
 
-Take Tencent Cloud as an example.A better DevOps pipeline would be like this:
+So take Tencent Cloud as an example.A better DevOps pipeline would be like this:
 
 1. Tencent Cloud administrator creates a sub user(Currently we call it user access key);
-2. The project manager
- sets up the [CAM](https://intl.cloud.tencent.com/document/product/598/17848) according to actual condition;
+2. The project manager sets up the [CAM](https://intl.cloud.tencent.com/document/product/598/17848) according to actual condition;
 3. The R&D (Research and Development) engineer writes business code;
 4. The DevOps engineer helps the R&D engineer to make the code running on the Tencent Cloud(Such as preparing the test/product environment,docker build,configuration,logging,monitor).
 
@@ -111,8 +110,7 @@ In the next generation digital world,the process of taking Taxi would be like th
 
 1. Zeusro: Hi,Roman,take me home.
 1. Roman: OK,wait for a second(get your position and home's position).
-1. Roman: Here are some available service like Amap Taxi,DiDi Taxi,
-Meituan Taxi on the service discovery system（dubbo 3.0, social advertising system).Please make your choice.
+1. Roman: Here are some available service like Amap Taxi,DiDi Taxi,Meituan Taxi on the service discovery system（dubbo 3.0, social advertising system).Please make your choice.
 5. Zeusro: Amap Taxi.
 6. Roman: OK.
 7. Taxi driver: Don't BB.Just get in the car.
